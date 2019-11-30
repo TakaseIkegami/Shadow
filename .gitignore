@@ -1,0 +1,5 @@
+.vagrant/
+shadow/
+tor/
+shadow-plugin-tor/
+*.log
